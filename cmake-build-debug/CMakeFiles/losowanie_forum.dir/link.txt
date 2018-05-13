@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/losowanie_forum.dir/main.cpp.o CMakeFiles/losowanie_forum.dir/Prize.cpp.o CMakeFiles/losowanie_forum.dir/Player.cpp.o CMakeFiles/losowanie_forum.dir/Lotto.cpp.o  -o losowanie_forum 

@@ -1,0 +1,3 @@
+/home/papik/WorkSpace/Cpp/lotto_forum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/papik/WorkSpace/Cpp/lotto_forum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/papik/WorkSpace/Cpp/lotto_forum/cmake-build-debug/CMakeFiles/losowanie_forum.dir
